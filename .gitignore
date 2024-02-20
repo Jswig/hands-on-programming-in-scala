@@ -1,3 +1,4 @@
-.ammonite/*
-.metals/*
-.vscode/*
+.ammonite
+.metals
+.scala-build
+.vscode
